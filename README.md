@@ -1,5 +1,5 @@
 # TapMap
-The TapMap class extends JavaScript's native [Map] with a single, powerful method:
+The TapMap class extends JavaScript's native [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) with a single, powerful method:
 
 ```js
 const map = new TapMap()
